@@ -22,7 +22,7 @@ dbpassword="root"
 download_folder="$working_dir/download"
 
 # Default general dumps to download
-dumps="allCountries.zip alternateNames.zip hierarchy.zip admin1CodesASCII.txt admin2Codes.txt featureCodes_en.txt timeZones.txt countryInfo.txt"
+dumps="allCountries.zip alternateNames.zip alternateNamesV2.zip hierarchy.zip admin1CodesASCII.txt admin2Codes.txt featureCodes_en.txt timeZones.txt countryInfo.txt"
 # By default all postal codes ... You can specify a set of the files located at http://download.geonames.org/export/zip/
 postal_codes="allCountries.zip"
 
